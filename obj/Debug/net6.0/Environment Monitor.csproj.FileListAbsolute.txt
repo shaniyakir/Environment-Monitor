@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\Environment Monitor.exe
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\Environment Monitor.deps.json
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\Environment Monitor.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\Environment Monitor.dll
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\Environment Monitor.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.dll
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\refint\Environment Monitor.dll
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\Environment Monitor.genruntimeconfig.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\ref\Environment Monitor.dll

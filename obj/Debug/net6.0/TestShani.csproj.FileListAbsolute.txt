@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\TestShani.exe
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\TestShani.deps.json
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\TestShani.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\TestShani.dll
+C:\Users\Owner\source\repos\ConsoleApp1\bin\Debug\net6.0\TestShani.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.dll
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\refint\TestShani.dll
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.pdb
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\TestShani.genruntimeconfig.cache
+C:\Users\Owner\source\repos\ConsoleApp1\obj\Debug\net6.0\ref\TestShani.dll
