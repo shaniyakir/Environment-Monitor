@@ -45,6 +45,10 @@ namespace TestShani
                         ShowQueuedActions();
                         break;
                     case "7":
+                        showQueuedDone();
+                        break;
+                    case "8":
+                        Console.WriteLine("Goodbye!");
                         return;
                     default:
                         Console.WriteLine("Invalid option. Please try again.");
@@ -66,7 +70,9 @@ namespace TestShani
             Console.WriteLine("4. Stop a running process");
             Console.WriteLine("5. Show monitored processes");
             Console.WriteLine("6. Show queued actions");
-            Console.WriteLine("7. Exit");
+            Console.WriteLine("7. Show secessfully action process");
+            Console.WriteLine("8. Exit");
+
             Console.Write("Select an option: ");
         }
 
@@ -82,6 +88,23 @@ namespace TestShani
             {
                 Console.WriteLine("Pending Actions:");
                 foreach (var action in pendingActions)
+                {
+                    Console.WriteLine(action);
+                }
+            }
+        }
+
+        private void showQueuedDone()
+        {
+            var finishActions = actionQueue.Where(action => !action.IsPending()).ToList();
+            if (finishActions.Count == 0)
+            {
+                Console.WriteLine("No finish actions.");
+            }
+            else
+            {
+                Console.WriteLine("finish Actions:");
+                foreach (var action in finishActions)
                 {
                     Console.WriteLine(action);
                 }

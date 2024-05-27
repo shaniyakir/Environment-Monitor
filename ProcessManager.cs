@@ -88,9 +88,7 @@ class ProcessManager
                 {
                     string keyName = "Init_" + process.ProcessName + DateTime.Now.ToString("yyyyMMdd-HHmmss");
                     registryManager.SetRegistryValue(keyName, DateTime.Now.ToString("yyyyMMdd-HHmmss"));
-                    Console.WriteLine("Process started successfully.");
-                    
-
+  
                 }
                 else
                 {
@@ -134,7 +132,6 @@ class ProcessManager
                     if (process.HasExited) {
                         string keyName = "Term_" + process.ProcessName + DateTime.Now.ToString("yyyyMMdd-HHmmss");
                         registryManager.SetRegistryValue(keyName, DateTime.Now.ToString("yyyyMMdd-HHmmss"));
-                        Console.WriteLine("Process terminated successfully.");
                     }
                     else
                     {
